@@ -1,4 +1,4 @@
-DEMO VIDEO : 
+**Demo Video** : 
 
 [![Watch the Demo](./Thumbnail.jpeg)](https://www.youtube.com/watch?v=4LpzYOBftPk)
 
