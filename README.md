@@ -1,5 +1,7 @@
+CLICK ON THE IMAGE FOR DEMO VIDEO
+
 [![Watch the Demo](./Thumbnail.jpeg)](https://www.youtube.com/watch?v=4LpzYOBftPk)
-[CLICK ON IMAGE TO WATCH THE DEMO]
+
 The field of artificial intelligence (AI) is constantly evolving, and two of the most exciting areas of research are reinforcement learning and genetic algorithms. Reinforcement learning is a type of machine learning in which an agent learns to make decisions by interacting with its environment and receiving feedback in the form of rewards or punishments. This approach has shown great promise in fields such as robotics, gaming, and even finance.
 
 Genetic algorithms, on the other hand, are a type of optimization technique inspired by the process of natural selection. By using concepts such as selection, mutation, and crossover, these algorithms can evolve solutions to complex problems over time. This approach has been used to solve a wide range of problems, from scheduling and routing to image recognition and financial forecasting.
