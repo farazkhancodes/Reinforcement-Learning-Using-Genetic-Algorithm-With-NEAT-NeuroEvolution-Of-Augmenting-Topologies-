@@ -1,6 +1,6 @@
 **Demo Video** : 
 
-[![Watch the Demo](./Thumbnail.jpeg)](https://www.youtube.com/watch?v=4LpzYOBftPk)
+[![Watch the Demo](./Thumbnail.jpeg)](https://drive.google.com/file/d/1570qqTm_pOfSgUJQZI2zjCVKKclENJdd/view)
 
 The field of artificial intelligence (AI) is constantly evolving, and two of the most exciting areas of research are reinforcement learning and genetic algorithms. Reinforcement learning is a type of machine learning in which an agent learns to make decisions by interacting with its environment and receiving feedback in the form of rewards or punishments. This approach has shown great promise in fields such as robotics, gaming, and even finance.
 
